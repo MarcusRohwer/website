@@ -1,5 +1,5 @@
 # Sample Website
-asdafdsdfasdfassdffdaff
+
 This is a sample website just for learning Git.
 
 -> http://learnenough.com/git-tutorial
